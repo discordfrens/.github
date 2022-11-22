@@ -1,1 +1,1 @@
-![Frens' Banner](../images/Frens%20Banner.png)
+![Frens' Banner](https://github.com/discordfrens/.github/blob/main/images/Frens%20Banner.png)
